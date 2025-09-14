@@ -1,6 +1,6 @@
 # EF-Research-Challenge-x-TUM-Blockchain-Club
 
-**By Emma Tekulová | 12.09.2025 | Munich**
+**Emma Tekulová | 12.09.2025 | Munich**
 
 **Honorary Mention – Ethereum Foundation Research Challenge**
 
