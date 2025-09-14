@@ -14,7 +14,7 @@ Sandwich attacks are a common **MEV (Maximal Extractable Value)** strategy where
 
 This project provided me hands-on experience with blockchain data analysis, from collecting raw block and transaction data to trying to identify patterns indicative of MEV activity. It involved working with:
 
-* **Blockchain data sources:** [Dune Analytics](https://dune.com/), [Ethereum-ETL](https://github.com/ethereum/ethereum-etl)
+* **Blockchain data sources:** [Dune Analytics](https://dune.com/), [Ethereum-ETL](https://github.com/blockchain-etl/ethereum-etl)
 * **Python libraries:** Pandas, NumPy
 * **APIs:** Infura, Etherscan
 
