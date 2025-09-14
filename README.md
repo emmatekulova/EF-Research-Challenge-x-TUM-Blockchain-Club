@@ -1,6 +1,7 @@
 # EF-Research-Challenge-x-TUM-Blockchain-Club
 
 **By Emma Tekulová | 12.09.2025 | Munich**
+
 **Honorary Mention – Ethereum Foundation Research Challenge**
 
 This repository contains my work on detecting **sandwich attacks** on the Ethereum blockchain as part of the **[Ethereum Foundation Research Challenge](https://apply.tum-blockchain.com/ef-research-challenge)** in collaboration with the **[TUM Blockchain Club](https://www.tum-blockchain.com)**.
